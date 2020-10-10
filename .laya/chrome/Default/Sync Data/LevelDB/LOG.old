@@ -1,1 +1,3 @@
-2020/09/26-20:29:29.227 3020 Reusing MANIFEST f:\demo\test\.laya\chrome\Default\Sync Data\LevelDB/MANIFEST-000001
+2020/10/09-17:25:29.191 4c90 Reusing MANIFEST F:\demo\testdemo\.laya\chrome\Default\Sync Data\LevelDB/MANIFEST-000001
+2020/10/09-17:25:29.192 4c90 Recovering log #3
+2020/10/09-17:25:29.192 4c90 Reusing old log F:\demo\testdemo\.laya\chrome\Default\Sync Data\LevelDB/000003.log 
